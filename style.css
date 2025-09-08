@@ -1,20 +1,19 @@
-    i{
+h1 {
+text-align: center;
+color: #ffffff;
+background-color: black;
+}
+.gambar img {
+text-align: center;
+    
+}
+p {
+color: white;
+text-align: center;
+}
+a {
 color: cyan;
-background-color:black;
 }
- h1 {
-            color: red;
-            background-color: black;
-            font-family: arial;
-            text-align: center;
-        }
-        p {
-    background-color: aqua;
-    font-size: 15px;
+* {
+    background-color: black;
 }
- h3 {
-            color: green;
-            background-color: wheat;
-            font-family: arial;
-            text-align: center;
-        }
