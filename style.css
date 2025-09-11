@@ -1,19 +1,33 @@
 h1 {
-text-align: center;
-color: #ffffff;
-background-color: black;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.gambar img {
-text-align: center;
-    
+.background {
+  background: url(Diamond-Beach-Nusa-Penida-Bali-1536x1024.jpg) no-repeat center
+    center/cover;
+  height: 400px;
+  text-align: center;
+  padding: 10px 20px;
 }
-p {
-color: white;
-text-align: center;
-}
-a {
-color: cyan;
+img {
+  width: 800;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  align-items: center;
 }
 * {
-    background-color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    background-color: #FFF0CE;
+}
+header {
+  text-align: center;
+}
+p {
+  padding-bottom: 5px;
 }
