@@ -1,33 +1,102 @@
-h1 {
-  font-size: 2rem;
-  background-color: black;
-  color: whitesmoke;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  border-radius: 20px;
-  border: 2px;
-  text-align: center;
-  padding: 2px;
+.pick {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: darkblue;
+  text-align: left;
+  border-radius: 25px;
+  padding-top: 15px;
+  margin-bottom: 5px;
+  padding-bottom: 40px;
+  border: 5px solid white;
+  box-sizing: border-box;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
-p {
-  font-size: 1.2em;
-  background-color: black;
-  color: whitesmoke;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  border-radius: 20px;
-  border: 2px;
-  text-align: center;
-  padding: 2px;
-  padding-top: 10px;
+img {
+  width: 350px;
+  height: 320px;
+  border-radius: 15px;
+}
+* {
+  background-color: darkblue;
+}
+button {
+  background-color: white;
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    width: 55px;
+    height: 45px;
+    border-radius: 30px;
+}
+.bold {
+font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.low {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: darkblue;
+  text-align: left;
+  border-radius: 25px;
+  padding-top: 15px;
+  margin-bottom: 5px;
+  padding-bottom: 40px;
+  border: 5px solid white;
+  box-sizing: border-box;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-right: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.trd {
+    font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 div {
-  padding: 50%;
-  padding-top: 50vh;
-  background-color: lightblue;
-  border-radius: 20px;
-  border: 2px;
-  font-family: 'Times New Roman', Times, serif;
-  color: black;
-  text-align: center;
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    overflow: hidden;
+    box-sizing: border-box;
+    gap: 50px;
+    
+}
+niw {
+  width: 350px;
+  height: 320px;
+  border-radius: 15px;
+}
+.ppp {
+ text-align: center;
+color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.zit {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: darkblue;
+  text-align: left;
+  border-radius: 25px;
+  padding-top: 15px;
+  margin-bottom: 5px;
+  padding-bottom: 40px;
+  border: 5px solid white;
+  box-sizing: border-box;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-right: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.s {
+    text-align: center;
+color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
