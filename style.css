@@ -1,102 +1,101 @@
-.pick {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: darkblue;
-  text-align: left;
-  border-radius: 25px;
-  padding-top: 15px;
-  margin-bottom: 5px;
-  padding-bottom: 40px;
-  border: 5px solid white;
-  box-sizing: border-box;
+nav {
+  background-color: rgb(50, 50, 243);
+  text-align: center;
   color: white;
-  padding-left: 40px;
-  padding-right: 40px;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  white-space: none;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
-img {
-  width: 350px;
-  height: 320px;
-  border-radius: 15px;
+
+div {
+  background-color: white;
+  border-radius: 50px;
+  border-color: black;
+  text-align: center;
+  gap: px;
+  margin: 50px;
+  padding: 30px;
+  align-content: center;
+}
+div img {
+  width: 200px;
+  height: 200px;
+  background-color: white;
 }
 * {
-  background-color: darkblue;
+  background-color: aquamarine;
+  align-content: center;
 }
-button {
+h1 {
+  background-color: rgb(50, 50, 243);
+}
+h3 {
+  background-color: rgb(50, 50, 243);
+}
+p {
+  text-align: center;
   background-color: white;
-  color: black;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: none;
-    width: 55px;
-    height: 45px;
-    border-radius: 30px;
+  font-size: larger;
 }
-.bold {
-font-size: larger;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.low {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: darkblue;
+.keahlian {
   text-align: left;
-  border-radius: 25px;
-  padding-top: 15px;
-  margin-bottom: 5px;
-  padding-bottom: 40px;
-  border: 5px solid white;
-  box-sizing: border-box;
-  color: white;
-  padding-left: 40px;
-  padding-right: 40px;
-  margin-right: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  background-color: white;
 }
-.trd {
-    font-size: larger;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.new {
+  background-color: white;
+  color: rgb(8, 100, 100);
+
+  font-family: "Licorice", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
-div {
-    display: flex;
-    margin: 50px;
-    padding: 50px;
-    overflow: hidden;
-    box-sizing: border-box;
-    gap: 50px;
-    
+
+.dasar {
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
 }
-niw {
-  width: 350px;
-  height: 320px;
-  border-radius: 15px;
+li {
+  background-color: white;
 }
-.ppp {
- text-align: center;
-color: aliceblue;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.link {
+  background-color: white;
 }
-.zit {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: darkblue;
+.nis {
+  background-color: white;
   text-align: left;
-  border-radius: 25px;
-  padding-top: 15px;
-  margin-bottom: 5px;
-  padding-bottom: 40px;
-  border: 5px solid white;
-  box-sizing: border-box;
-  color: white;
-  padding-left: 40px;
-  padding-right: 40px;
-  margin-right: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  color: rgb(8, 100, 100);
+  font-family: "BBH Sans Bogle", sans-serif;
+  font-weight: 400;
+  font-style: bold;
 }
-.s {
-    text-align: center;
-color: aliceblue;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.projectny {
+  background-color: white;
+}
+.lik {
+  text-align: left;
+}
+a {
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: white;
+}
+.foot {
+  background-color: rgb(50, 50, 243);
+  color: white;
+}
+footer {
+  background-color: rgb(50, 50, 243);
+  margin-left: auto;
+  overflow: hidden;
+  
+}
+i {
+  background-color: white;
+  font-family: "Asimovian", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
