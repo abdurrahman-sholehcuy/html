@@ -1,0 +1,46 @@
+.sticky {
+  position: fixed;
+  padding: 5px;
+  background-color: grey;
+  border: 2px solid darkblue;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin: 0;
+    width: 400px;
+}
+p.tag {
+  position: relative;
+  top: 4px;
+  
+}
+img {
+ width: 350px;
+ height: 200px;
+}
+div {
+  text-align: center;
+}
+.broken{
+  position: absolute;
+}
+.a {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color: brown;
+  color: white;
+  z-index: 1;
+}
+.b {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color: blue;
+  color: white;
+  z-index: 2;
+  top: 50px;
+  left: 50px;
+}
+
+
